@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmanage"]=self["webpackChunkmanage"]||[]).push([[242],{7242:function(n,e,u){u.r(e),u.d(e,{default:function(){return f}});var a=function(){var n=this,e=n._self._c;return e("div",[n._v("页面2")])},l=[],t={name:"pageTwo"},r=t,s=u(1001),c=(0,s.Z)(r,a,l,!1,null,null,null),f=c.exports}}]);
+//# sourceMappingURL=242.da595cc2.js.map
